@@ -3,8 +3,10 @@ body {
 }
 
 .container {
+  border-radius: 25;
   margin-left: 100;
   margin-right: 100;
+  margin-bottom: 100;
   background-color: #9D8E6C;
 }
 
