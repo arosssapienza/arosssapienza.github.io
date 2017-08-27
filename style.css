@@ -12,10 +12,9 @@ body {
   border-radius: 25px;
   text-align: center;
   background-color: #9D8E6C;
-  padding-left: 150px;
-  padding-right: 150px;
-  padding-bottom: 10px;
-  padding-top: 10px;
+  margin-top: 25px;
+  padding-bottom: 5px;
+  padding-top: 5px;
 }
 
 .heading {
@@ -40,7 +39,7 @@ body {
 }
 
 .proex h3 {
-  color: #FFFFFF;
+  color: #000000;
 }
 
 .proex p {
@@ -52,8 +51,17 @@ body {
   border-radius: 25px;
   background-color: #9D8E6C;
   color: #0E1C25;
+  margin-top: 25px;
   padding-left: 50px;
   padding-right: 50px;
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+.persk h3 {
+  color: #000000;
+}
+
+.persk p {
+  text-indent: 10px;
 }
