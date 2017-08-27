@@ -3,6 +3,14 @@ body {
   margin: 100;
 }
 
+.container {
+  margin: 100;
+  background-color: "tan";
+}
+
+.profile {
+}
+
 .heading {
   text-align: center;
 }
