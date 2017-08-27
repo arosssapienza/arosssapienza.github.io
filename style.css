@@ -1,8 +1,9 @@
-head {
-  text-align: center;
-}
-
 body {
   font-family: "Arial", "Verdana";
   margin: 100;
+}
+
+.heading {
+   margin: 150px;
+  text-align: center;
 }
