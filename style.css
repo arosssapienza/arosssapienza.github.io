@@ -5,7 +5,6 @@ body {
 .container {
   margin-left: 100;
   margin-right: 100;
-  margin-bottom: 100;
   background-color: #9D8E6C;
 }
 
@@ -20,7 +19,7 @@ body {
   background-color: #D2B48C;
 }
 
-proex {
+.proex {
   text-color: 0E1C25;
   margin: 100;
   padding: 250px;
