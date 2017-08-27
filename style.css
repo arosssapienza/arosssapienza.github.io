@@ -19,6 +19,8 @@ body {
 }
 
 .heading {
+  order: 1px solid #D2B8C;
+  border-radius: 25px;
   text-align: center;
   background-color: #D2B48C;
   padding-top: 15px;
