@@ -3,12 +3,8 @@ body {
 }
 
 .container {
-  border: 1px solid #FFFFFF;
-  border-radius: 25px;
   margin-left: 100px;
   margin-right: 100px;
-  padding-top: 15px;
-  padding-bottom: 15px;
 }
 
 .profile {
@@ -18,22 +14,36 @@ body {
   background-color: #9D8E6C;
   padding-left: 150px;
   padding-right: 150px;
-  padding-bottom: 50px;
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
 
 .heading {
   text-align: center;
   background-color: #D2B48C;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .proex {
+  order: 1px solid #9D8E6C;
+  border-radius: 25px;
   background-color: #9D8E6C;
   color: #0E1C25;
-  padding: 50px;
+  margin-top: 25px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .persk {
+  order: 1px solid #9D8E6C;
+  border-radius: 25px;
   background-color: #9D8E6C;
   color: #0E1C25;
-  padding: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
