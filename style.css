@@ -10,10 +10,13 @@ body {
 }
 
 .profile {
+  order: 1px solid #9D8E6C;
+  border-radius: 25px;
   text-align: center;
   background-color: #9D8E6C;
   padding-left: 150px;
   padding-right: 150px;
+  padding-bottom: 50px;
 }
 
 .heading {
@@ -22,8 +25,7 @@ body {
 }
 
 .proex {
-  order: 1px solid #0E1C25;
-  border-radius: 25px;
+  background-color: #9D8E6C;
   text-color: #0E1C25;
   padding: 50px;
 }
