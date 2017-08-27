@@ -3,9 +3,9 @@ body {
 }
 
 .container {
+  border-radius: 25px;
   margin-left: 100px;
   margin-right: 100px;
-  background-color: #9D8E6C;
 }
 
 .profile {
