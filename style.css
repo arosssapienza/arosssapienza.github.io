@@ -10,8 +10,9 @@ body {
 
 .profile {
   text-align: center;
-  background-color: #D2B48C;
-  padding: 50;
+  
+  background-color: #9D8E6C;
+  padding: 150;
 }
 
 .heading {
@@ -20,6 +21,5 @@ body {
 }
 
 .proex {
-  margin: 150 150 150 150;
-  background-color: "blue";
+  font-color: 0E1C25;
 }
