@@ -4,11 +4,10 @@ body {
 }
 
 .heading {
-  margin: 150;
   text-align: center;
 }
 
 .proex {
-  padding: 150;
+  margin: 150px 150px 150px 150px;
   background-color: "blue";
 }
