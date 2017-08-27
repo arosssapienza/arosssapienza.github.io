@@ -8,10 +8,10 @@ body {
 }
 
 .profile {
-  order: 1px solid #9D8E6C;
+  order: 1px solid #B5A98F;
   border-radius: 25px;
   text-align: center;
-  background-color: #9D8E6C;
+  background-color: #B5A98F;
   margin-top: 25px;
   padding-right: 200px;
   padding-left: 200px;
@@ -29,9 +29,9 @@ body {
 }
 
 .proex {
-  order: 1px solid #9D8E6C;
+  order: 1px solid #B5A98F;
   border-radius: 25px;
-  background-color: #9D8E6C;
+  background-color: #B5A98F;
   color: #0E1C25;
   margin-top: 25px;
   padding-left: 50px;
@@ -49,9 +49,9 @@ body {
 }
 
 .persk {
-  order: 1px solid #9D8E6C;
+  order: 1px solid #B5A98F;
   border-radius: 25px;
-  background-color: #9D8E6C;
+  background-color: #B5A98F;
   color: #0E1C25;
   margin-top: 25px;
   padding-left: 50px;
