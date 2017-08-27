@@ -42,10 +42,6 @@ body {
   color: #000000;
 }
 
-.proex p {
-  text-indent: 10px;
-}
-
 .persk {
   order: 1px solid #9D8E6C;
   border-radius: 25px;
@@ -60,8 +56,4 @@ body {
 
 .persk h3 {
   color: #000000;
-}
-
-.persk p {
-  text-indent: 10px;
 }
