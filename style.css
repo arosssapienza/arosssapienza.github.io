@@ -19,7 +19,7 @@ body {
 }
 
 .heading {
-  order: 1px solid #D2B8C;
+  order: 1px solid #D2B48C;
   border-radius: 25px;
   text-align: center;
   background-color: #D2B48C;
@@ -37,6 +37,14 @@ body {
   padding-right: 50px;
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+.proex h3 {
+  color: #FFFFFF;
+}
+
+.proex p {
+  text-indent: 10px;
 }
 
 .persk {
