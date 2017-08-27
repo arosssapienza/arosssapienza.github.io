@@ -13,8 +13,8 @@ body {
   text-align: center;
   background-color: #B5A98F;
   margin-top: 25px;
-  padding-right: 400px;
-  padding-left: 400px;
+  padding-right: 250px;
+  padding-left: 250px;
   padding-bottom: 5px;
   padding-top: 5px;
 }
@@ -45,7 +45,7 @@ body {
 }
 
 .proex h4 {
-  color: #C0C0C0;
+  color: #E6E6E6;
 }
 
 .persk {
@@ -65,5 +65,5 @@ body {
 }
 
 .persk h4 {
-  color: #C0C0C0;
+  color: #E6E6E6;
 }
