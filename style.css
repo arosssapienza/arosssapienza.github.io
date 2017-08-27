@@ -3,15 +3,16 @@ body {
 }
 
 .container {
-  margin-left: 100;
-  margin-right: 100;
+  margin-left: 100px;
+  margin-right: 100px;
   background-color: #9D8E6C;
 }
 
 .profile {
   text-align: center;
   background-color: #9D8E6C;
-  padding: 150;
+  padding-left: 150px;
+  padding-right: 150px;
 }
 
 .heading {
@@ -21,6 +22,5 @@ body {
 
 .proex {
   text-color: 0E1C25;
-  margin: 100;
-  padding: 250px;
+  padding: 50px;
 }
