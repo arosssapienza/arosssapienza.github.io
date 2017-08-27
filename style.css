@@ -10,6 +10,9 @@ body {
 }
 
 .profile {
+  text-align: center;
+  background-color: #D2B48C;
+  padding: 50;
 }
 
 .heading {
