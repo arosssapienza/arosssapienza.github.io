@@ -44,6 +44,10 @@ body {
   color: #000000;
 }
 
+.proex h4 {
+  color: #FFFFFF;
+}
+
 .persk {
   order: 1px solid #9D8E6C;
   border-radius: 25px;
@@ -58,4 +62,8 @@ body {
 
 .persk h3 {
   color: #000000;
+}
+
+.persk h4 {
+  color: #FFFFFF;
 }
